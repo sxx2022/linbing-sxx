@@ -1,0 +1,15 @@
+root
+admin
+guest
+anonymous
+deployment
+test
+www
+web
+wwwroot
+data
+tomcat
+Admin
+Administrator
+administrator
+ADMIN
